@@ -1,5 +1,5 @@
 # function which return reverse of a string
-
+#commant
 def isPalindrome(s):
 	return s == s[::-1]
 
